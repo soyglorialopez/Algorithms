@@ -1,3 +1,4 @@
+'use strict'
 
 // Input: A sequence of n numbers A = {a1, a2..an} and value v
 //Output: An index i such that v = A[i] or the special NIL if 
