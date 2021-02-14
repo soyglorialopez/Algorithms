@@ -46,6 +46,7 @@ function Merge(array, p, q, r) {
 };
 
 function MergeSort(array, p, r) {
+    debugger
     if (p < r) {
        let q = Math.floor((p + r) / 2);
         MergeSort(array, p, q);
